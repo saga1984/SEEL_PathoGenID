@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 # ----------------------------------------------------------------------------------
 #   correr kmerfinder en todos los ensambles de un directorio y filtrar resultados
